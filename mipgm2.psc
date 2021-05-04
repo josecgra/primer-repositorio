@@ -1,3 +1,4 @@
 Proceso pgm3
-	Escribir "nuevo programa para añadir al repo";
+	Escribir "nuevo programa para aÃ±adir al repo";
+	Escribir "nuevo cambio recibido directamente en el repositorio remoto";
 FinProceso
