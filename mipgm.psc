@@ -1,10 +1,7 @@
-Proceso pruebagit
-	
-	Definir vari Como Caracter;
-	
-	Escribir "Introduce una cadena";
-	Leer vari;
-	
-	Escribir "la cadena introducida es: ",vari;
-	
-FinProceso
+Proceso pruebaDefinir vari Como Caracter;Definir edad Como Entero;
+	Escribir "Introduce una cadena";
+	Leer vari;
+	Escribir "la cadena introducida es: ",vari;
+	Escribir "Dame tu edad";
+	Leer edad;
+FinProceso
